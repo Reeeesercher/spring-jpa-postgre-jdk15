@@ -1,6 +1,6 @@
 
 
-name: Java CI with Maven
+name: Mavan and Docker
 
 on:
   push:
