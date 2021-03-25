@@ -11,3 +11,6 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
 spring.jpa.properties.hibernate.format_sql=true 
 
 server.error.include-message=always 
+
+
+Docker hub erdnusskerne/spring-jpa-demo
